@@ -2321,6 +2321,22 @@ form input.display-none {
 		width: 100%;
 	}
 }
+
+
+.iframe-top {
+	background-color: transparent !important;
+	width: 17rem !important;
+
+
+}
+
+.iframe-top-menu {
+	width: auto !important;
+	padding-top: 1rem !important;
+	height: auto !important;
+	width: 100% !important;
+}
+
 .ui-tabs .ui-tabs-nav li.ui-state-active a:after, body:not(.woocommerce-page) table tr:hover td, body:not(.woocommerce-page) table tr:hover td a {
 	color: #fff;
 }
